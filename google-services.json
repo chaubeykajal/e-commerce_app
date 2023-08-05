@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1036504470355",
+    "project_id": "mxplayerclone",
+    "storage_bucket": "mxplayerclone.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1036504470355:android:5930245069cad87e0d87a6",
+        "android_client_info": {
+          "package_name": "com.example.onemoremxplayer"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCokBG8GIsLGbhm_4OSIp37h531rLNlHH8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
